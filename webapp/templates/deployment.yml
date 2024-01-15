@@ -64,7 +64,7 @@ spec:
 
 
 
-        image: edu123/docker-image
+        image: fotiosk510/docker-image
 
 
 
